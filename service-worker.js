@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mero_crypto_finance/precache-manifest.ce3ea73a4f8bfc10327096f2b61536f9.js"
+  "/mero_crypto_finance/precache-manifest.807820c02cc1a8de73ad1e205a79b899.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mero_crypto_finance/static/css/main.d850c1a7.chunk.css",
-    "main.js": "/mero_crypto_finance/static/js/main.5dc53c47.chunk.js",
-    "main.js.map": "/mero_crypto_finance/static/js/main.5dc53c47.chunk.js.map",
+    "main.js": "/mero_crypto_finance/static/js/main.cb5b8038.chunk.js",
+    "main.js.map": "/mero_crypto_finance/static/js/main.cb5b8038.chunk.js.map",
     "runtime-main.js": "/mero_crypto_finance/static/js/runtime-main.60d778ba.js",
     "runtime-main.js.map": "/mero_crypto_finance/static/js/runtime-main.60d778ba.js.map",
     "static/css/2.963765e0.chunk.css": "/mero_crypto_finance/static/css/2.963765e0.chunk.css",
     "static/js/2.3e3ce2ba.chunk.js": "/mero_crypto_finance/static/js/2.3e3ce2ba.chunk.js",
     "static/js/2.3e3ce2ba.chunk.js.map": "/mero_crypto_finance/static/js/2.3e3ce2ba.chunk.js.map",
     "index.html": "/mero_crypto_finance/index.html",
-    "precache-manifest.ce3ea73a4f8bfc10327096f2b61536f9.js": "/mero_crypto_finance/precache-manifest.ce3ea73a4f8bfc10327096f2b61536f9.js",
+    "precache-manifest.807820c02cc1a8de73ad1e205a79b899.js": "/mero_crypto_finance/precache-manifest.807820c02cc1a8de73ad1e205a79b899.js",
     "service-worker.js": "/mero_crypto_finance/service-worker.js",
     "static/css/2.963765e0.chunk.css.map": "/mero_crypto_finance/static/css/2.963765e0.chunk.css.map",
     "static/css/main.d850c1a7.chunk.css.map": "/mero_crypto_finance/static/css/main.d850c1a7.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.963765e0.chunk.css",
     "static/js/2.3e3ce2ba.chunk.js",
     "static/css/main.d850c1a7.chunk.css",
-    "static/js/main.5dc53c47.chunk.js"
+    "static/js/main.cb5b8038.chunk.js"
   ]
 }
