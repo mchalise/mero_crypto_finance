@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mero_crypto_finance/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/mero_crypto_finance/static/js/main.154438c1.chunk.js",
+    "main.js.map": "/mero_crypto_finance/static/js/main.154438c1.chunk.js.map",
+    "runtime-main.js": "/mero_crypto_finance/static/js/runtime-main.60d778ba.js",
+    "runtime-main.js.map": "/mero_crypto_finance/static/js/runtime-main.60d778ba.js.map",
+    "static/css/2.963765e0.chunk.css": "/mero_crypto_finance/static/css/2.963765e0.chunk.css",
+    "static/js/2.cef3b16e.chunk.js": "/mero_crypto_finance/static/js/2.cef3b16e.chunk.js",
+    "static/js/2.cef3b16e.chunk.js.map": "/mero_crypto_finance/static/js/2.cef3b16e.chunk.js.map",
+    "index.html": "/mero_crypto_finance/index.html",
+    "precache-manifest.5240fec3b1817fdbbb3bd5c8e8d24def.js": "/mero_crypto_finance/precache-manifest.5240fec3b1817fdbbb3bd5c8e8d24def.js",
+    "service-worker.js": "/mero_crypto_finance/service-worker.js",
+    "static/css/2.963765e0.chunk.css.map": "/mero_crypto_finance/static/css/2.963765e0.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/mero_crypto_finance/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.cef3b16e.chunk.js.LICENSE.txt": "/mero_crypto_finance/static/js/2.cef3b16e.chunk.js.LICENSE.txt",
+    "static/media/dbank2.png": "/mero_crypto_finance/static/media/dbank2.73567394.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d778ba.js",
+    "static/css/2.963765e0.chunk.css",
+    "static/js/2.cef3b16e.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.154438c1.chunk.js"
+  ]
+}
